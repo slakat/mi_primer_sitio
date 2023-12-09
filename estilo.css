@@ -1,0 +1,22 @@
+/*
+Soy un comentario
+
+*/
+
+
+body{
+	background: rgba(0,0,0,.1);
+	padding: 10px;
+}
+
+#seccion-1{
+	color: green;
+}
+
+
+div{
+	display: flex;
+}
+div{
+	display: grid;
+}
